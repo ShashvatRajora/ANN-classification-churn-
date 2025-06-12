@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+*.env
+
+# VS Code settings
+.vscode/
+
+# PyCharm project files
+.idea/
+
+# macOS system file
+.DS_Store
+
+# Windows system file
+Thumbs.db
+
+# Jupyter Notebook checkpoints (but keep .ipynb files)
+.ipynb_checkpoints/
+
+# Logs and debugging
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Model and intermediate binary data files (keep CSVs)
+*.h5
+*.pkl
+*.joblib
+*.npy
+*.npz
